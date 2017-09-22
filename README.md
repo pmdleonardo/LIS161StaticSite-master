@@ -32,4 +32,6 @@ Blog posts, information, contact details
 
 II. Lists of links, images and other information you use for your website.
 
-Bootsrap website template - https://startbootstrap.com/template-overviews/clean-blog/
+CSS - https://startbootstrap.com/template-overviews/clean-blog/
+
+*Images are my own
