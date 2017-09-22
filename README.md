@@ -16,4 +16,4 @@ Contact Us
 II. Functional Requirements
 Blog posts, information, contact details
 II. Lists of links, images and other information you use for your website.
-Images are owned by the developer.
+Bootsrap website template - https://startbootstrap.com/template-overviews/clean-blog/
